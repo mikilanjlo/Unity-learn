@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ac630d0-e525-4021-a733-f9f80b8ee2f8" name="Default Changelist" comment="" />
+    <list default="true" id="1ac630d0-e525-4021-a733-f9f80b8ee2f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.leson1.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.leson1.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../leson2/tasks.md" />
+        <option value="$PROJECT_DIR$/../leson2/logical-operation.md" />
+        <option value="$PROJECT_DIR$/../leson2/logical-terms.md" />
       </list>
     </option>
   </component>
@@ -36,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617690142132</updated>
-      <workItem from="1617690171931" duration="320000" />
+      <workItem from="1617690171931" duration="1882000" />
     </task>
     <servers />
   </component>
